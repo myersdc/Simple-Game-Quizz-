@@ -12,4 +12,17 @@ Difflib: Biblioteca para comparar strings e calcular a similaridade entre elas.
 
 ## Como Utilizar 🚀
 ### 1. Clone o Repositório:
+https://github.com/myersdc/Simple-Game-Quizz-
+
+### 2. Execute o Aplicativo:
+Abra o diretório do projeto em seu terminal e execute o aplicativo Python:
+python src/main.py
+
+## Contribuições 🤝
+Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, correções ou melhorias através de issues ou pull requests.
+
+## Licença ⚖️
+Este projeto é liberado sob a [Licença MIT](LICENSE), permitindo a modificação, distribuição e uso comercial do código fonte.
+
+
 
