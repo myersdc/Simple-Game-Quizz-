@@ -1,4 +1,4 @@
-## Quiz App - Seu Nome 🚀
+## Quiz App - Myers 🚀
 
 Bem-vindo ao Quiz App, um projeto desenvolvido por [Seu Nome](https://github.com/seu-usuario). Este projeto é uma aplicação simples de Quiz, desenvolvida em Python usando a biblioteca Tkinter. O código-fonte está disponível gratuitamente no GitHub para personalização e uso completo.
 
