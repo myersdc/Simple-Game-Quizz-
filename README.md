@@ -1,28 +1,50 @@
-## Quiz App - Myers 🚀
+<div align="center">
 
-Bem-vindo ao Quiz App, um projeto desenvolvido por [Myers](https://github.com/myersdc). Este projeto é uma aplicação simples de Quiz, desenvolvida em Python usando a biblioteca Tkinter. O código-fonte está disponível gratuitamente no GitHub para personalização e uso completo.
+<h1 align="center">Quiz App</h1>
 
-## Sobre o Projeto 🌐
-O Quiz App foi criado com o objetivo de proporcionar uma experiência de jogo interativa e educativa. Ele permite aos usuários testarem seus conhecimentos em diferentes áreas, apresentando perguntas aleatórias em diferentes níveis de dificuldade. O projeto também fornece feedback instantâneo sobre as respostas dos usuários e apresenta uma contagem regressiva para cada pergunta.
+<img src="https://caminho/para/sua/imagem" alt="Imagem do Quiz App"/>
 
-## Tecnologias Utilizadas 💻
-Python: Linguagem de programação utilizada para desenvolver a lógica do jogo.
-Tkinter: Biblioteca gráfica para criar a interface do usuário.
-Difflib: Biblioteca para comparar strings e calcular a similaridade entre elas.
+<br><br>
 
-## Como Utilizar 🚀
-### 1. Clone o Repositório:
-https://github.com/myersdc/Simple-Game-Quizz-
+<p>
+  <strong>O Quiz App é uma aplicação de quiz desenvolvida em Python usando a biblioteca Tkinter. Ele apresenta perguntas de múltipla escolha em diferentes níveis de dificuldade e permite que o usuário responda a cada pergunta dentro de um tempo determinado.</strong>
+</p>
 
-### 2. Execute o Aplicativo:
-Abra o diretório do projeto em seu terminal e execute o aplicativo Python:
-python src/main.py
+</div>
 
-## Contribuições 🤝
-Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, correções ou melhorias através de issues ou pull requests.
+![Versão do Projeto](https://img.shields.io/badge/version-1.0-blue.svg)
+![Status de Construção](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Licença ⚖️
-Este projeto é liberado sob a [Licença MIT](LICENSE), permitindo a modificação, distribuição e uso comercial do código fonte.
+## Funcionalidades
 
+- Escolha de dificuldade: O usuário pode escolher entre três níveis de dificuldade - fácil, médio e difícil.
+- Tema Claro/Escuro: O aplicativo suporta dois temas - claro e escuro.
+- Contador de Tempo: Cada pergunta tem um limite de tempo para resposta.
+- Feedback de Resposta: O usuário recebe feedback imediato sobre a precisão de sua resposta.
+- Pontuação: A pontuação do usuário é exibida durante e após o quiz.
 
+## Como usar
 
+1. Execute o script Python.
+2. Escolha o nível de dificuldade desejado no menu suspenso.
+3. Clique no botão "Iniciar" para começar o quiz.
+4. Responda às perguntas dentro do tempo limite.
+5. Após o término do quiz, uma caixa de mensagem exibirá a pontuação final.
+
+## Requisitos
+
+- Python 3.x
+- Biblioteca Tkinter (geralmente incluída na instalação padrão do Python)
+
+## Contribuindo
+
+Se você quiser contribuir para este projeto, sinta-se à vontade para enviar pull requests ou abrir problemas relacionados a bugs ou solicitações de novos recursos.
+
+## Autor
+
+[Vasiliev](https://github.com/myersdc)
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
