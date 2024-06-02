@@ -2,7 +2,7 @@
 
 <h1 align="center">Quiz App</h1>
 
-<img src="https://caminho/para/sua/imagem" alt="Imagem do Quiz App"/>
+<img src="https://github.com/myersdc/Simple-Game-Quizz-/blob/main/Assets/Screenshot_1.png" alt="Imagem do Quiz App"/>
 
 <br><br>
 
